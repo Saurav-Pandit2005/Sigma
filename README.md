@@ -23,7 +23,3 @@ This repository contains the code, projects, assignments, notes, and learning ma
 ## Purpose
 
 The purpose of this repository is to organize and maintain all course-related work in a single place while tracking my learning progress and practical implementations.
-
-## Author
-
-Saurav Pandit
